@@ -1,0 +1,7 @@
+base_year: 2020
+projection_years: 10
+starting_population: 8000000
+tfr: 2.5
+age_specific_birth_rates: [10, 50, 100, 200, 300, 400, 450, 400, 300, 200, 100]
+age_specific_death_rates: [5, 10, 20, 50, 100, 150, 200, 300, 400, 500, 600]
+net_migration: [10000, 12000, 15000
